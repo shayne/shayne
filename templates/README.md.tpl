@@ -6,6 +6,11 @@ I'm currently working on ChatGPT at OpenAI. Previously, I founded an AI startup 
 
 Off the clock I fly small planes and once ran a craft coffee shop.
 
+### Recent project contributions
+
+{{range recentContributions 5}}- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
+  - {{.Repo.Description}}
+{{end}}
 ### Recent releases
 
 {{range recentReleases 5}}- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})

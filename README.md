@@ -6,6 +6,19 @@ I'm currently working on ChatGPT at OpenAI. Previously, I founded an AI startup 
 
 Off the clock I fly small planes and once ran a craft coffee shop.
 
+### Recent project contributions
+
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
+- [shayne/yargs](https://github.com/shayne/yargs) (today)
+  - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
+- [shayne/derphole](https://github.com/shayne/derphole) (2 days ago)
+  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (6 days ago)
+  - Docs website for yeetrun.com
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (6 days ago)
+  - Homelab Service Manager for Docker, Compose, and systemd
+
 ### Recent releases
 
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 2 days ago)
@@ -21,9 +34,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3649)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3650)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4534)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4536)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
