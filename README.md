@@ -6,11 +6,24 @@ I'm currently working on ChatGPT at OpenAI. Previously, I founded an AI startup 
 
 Off the clock I fly small planes and once ran a craft coffee shop.
 
+### Recent releases
+
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 2 days ago)
+  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.2.10](https://github.com/yeetrun/yeet/releases/tag/v0.2.10), 5 days ago)
+  - Homelab Service Manager for Docker, Compose, and systemd
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.8.2](https://github.com/JuliusBrussee/caveman/releases/tag/v1.8.2), 1 week ago)
+  - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [shayne/viberun](https://github.com/shayne/viberun) ([dev](https://github.com/shayne/viberun/releases/tag/dev), 3 months ago)
+  - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
+- [shayne/ByeFi](https://github.com/shayne/ByeFi) ([v0.1.2](https://github.com/shayne/ByeFi/releases/tag/v0.1.2), 4 months ago)
+  - A macOS app to kill Wi-Fi when your lid is closed to save battery
+
 ### Recent starred projects
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3649)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4523)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4534)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
