@@ -8,35 +8,35 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/yargs](https://github.com/shayne/yargs) (today)
-  - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
-- [shayne/derphole](https://github.com/shayne/derphole) (2 days ago)
-  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (6 days ago)
-  - Docs website for yeetrun.com
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (6 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Homelab Service Manager for Docker, Compose, and systemd
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
+- [shayne/yargs](https://github.com/shayne/yargs) (1 day ago)
+  - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
+- [shayne/derphole](https://github.com/shayne/derphole) (3 days ago)
+  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 
 ### Recent releases
 
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 2 days ago)
-  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.2.10](https://github.com/yeetrun/yeet/releases/tag/v0.2.10), 5 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.3.2](https://github.com/yeetrun/yeet/releases/tag/v0.3.2), today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.8.2](https://github.com/JuliusBrussee/caveman/releases/tag/v1.8.2), 1 week ago)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 3 days ago)
+  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.8.2](https://github.com/JuliusBrussee/caveman/releases/tag/v1.8.2), 13 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [shayne/viberun](https://github.com/shayne/viberun) ([dev](https://github.com/shayne/viberun/releases/tag/dev), 3 months ago)
+- [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 4 months ago)
   - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
 - [shayne/ByeFi](https://github.com/shayne/ByeFi) ([v0.1.2](https://github.com/shayne/ByeFi/releases/tag/v0.1.2), 4 months ago)
   - A macOS app to kill Wi-Fi when your lid is closed to save battery
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3650)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3651)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4536)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (4765)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
