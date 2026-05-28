@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Homelab Service Manager for Docker, Compose, and systemd
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (3 days ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (3 days ago)
-  - Docs website for yeetrun.com
 - [shayne/yargs](https://github.com/shayne/yargs) (4 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 - [shayne/derphole](https://github.com/shayne/derphole) (6 days ago)
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.3.2](https://github.com/yeetrun/yeet/releases/tag/v0.3.2), 2 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.3.3](https://github.com/yeetrun/yeet/releases/tag/v0.3.3), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 5 days ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
@@ -34,9 +34,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3651)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3652)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5136)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5145)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
