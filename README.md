@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/yargs](https://github.com/shayne/yargs) (4 days ago)
+- [shayne/yargs](https://github.com/shayne/yargs) (5 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
-- [shayne/derphole](https://github.com/shayne/derphole) (6 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (7 days ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 
 ### Recent releases
@@ -34,9 +34,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3652)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3653)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5178)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5189)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
