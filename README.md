@@ -8,20 +8,20 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Homelab Service Manager for Docker, Compose, and systemd
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
 - [shayne/cmtr](https://github.com/shayne/cmtr) (today)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 days ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (2 days ago)
-  - Docs website for yeetrun.com
 - [shayne/yargs](https://github.com/shayne/yargs) (6 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.3.3](https://github.com/yeetrun/yeet/releases/tag/v0.3.3), 2 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.4.0](https://github.com/yeetrun/yeet/releases/tag/v0.4.0), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 8 days ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
