@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/cmtr](https://github.com/shayne/cmtr) (today)
+- [shayne/cmtr](https://github.com/shayne/cmtr) (1 day ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/yargs](https://github.com/shayne/yargs) (6 days ago)
+- [shayne/yargs](https://github.com/shayne/yargs) (7 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3657)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5313)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5322)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (24)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
