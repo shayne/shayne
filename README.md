@@ -12,15 +12,17 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+  - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (1 day ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/yargs](https://github.com/shayne/yargs) (7 days ago)
-  - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
 
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v0](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v0), today)
+  - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.4.4](https://github.com/yeetrun/yeet/releases/tag/v0.4.4), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 9 days ago)
@@ -29,14 +31,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 4 months ago)
   - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
-- [shayne/ByeFi](https://github.com/shayne/ByeFi) ([v0.1.2](https://github.com/shayne/ByeFi/releases/tag/v0.1.2), 4 months ago)
-  - A macOS app to kill Wi-Fi when your lid is closed to save battery
 
 ### Recent starred projects
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3658)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5352)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5354)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
