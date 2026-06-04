@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+  - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 days ago)
-  - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (4 days ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (5 days ago)
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v1), 2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v3](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v3), today)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.4.4](https://github.com/yeetrun/yeet/releases/tag/v0.4.4), 3 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3707)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5555)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5558)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
