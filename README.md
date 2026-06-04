@@ -21,10 +21,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.0](https://github.com/yeetrun/yeet/releases/tag/v0.5.0), today)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v6](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v6), today)
   - Yeet VM image bundles
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.4.4](https://github.com/yeetrun/yeet/releases/tag/v0.4.4), 4 days ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 13 days ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.8.2](https://github.com/JuliusBrussee/caveman/releases/tag/v1.8.2), 3 weeks ago)
