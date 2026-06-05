@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.0](https://github.com/yeetrun/yeet/releases/tag/v0.5.0), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.1](https://github.com/yeetrun/yeet/releases/tag/v0.5.1), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v6](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v6), today)
   - Yeet VM image bundles
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3710)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5623)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5634)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
