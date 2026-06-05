@@ -8,11 +8,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
   - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (6 days ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
@@ -21,10 +21,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.1](https://github.com/yeetrun/yeet/releases/tag/v0.5.1), today)
-  - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v6](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v6), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v7](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v7), today)
   - Yeet VM image bundles
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.2](https://github.com/yeetrun/yeet/releases/tag/v0.5.2), today)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 13 days ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.8.2](https://github.com/JuliusBrussee/caveman/releases/tag/v1.8.2), 3 weeks ago)
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3712)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5672)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (5673)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
