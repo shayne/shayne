@@ -10,20 +10,20 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Homelab Service Manager for Docker, Compose, and systemd
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
   - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (7 days ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (8 days ago)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.10](https://github.com/yeetrun/yeet/releases/tag/v0.5.10), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.11](https://github.com/yeetrun/yeet/releases/tag/v0.5.11), today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v11](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v11), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v12](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v12), today)
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 2 weeks ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
