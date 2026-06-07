@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.6.4](https://github.com/yeetrun/yeet/releases/tag/v0.6.4), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.6.5](https://github.com/yeetrun/yeet/releases/tag/v0.6.5), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v13](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v13), today)
   - Yeet VM image bundles
