@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Homelab Service Manager for Docker, Compose, and systemd
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
-  - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
   - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (8 days ago)
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.5.13](https://github.com/yeetrun/yeet/releases/tag/v0.5.13), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.6.0](https://github.com/yeetrun/yeet/releases/tag/v0.6.0), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-v13](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-v13), today)
   - Yeet VM image bundles
