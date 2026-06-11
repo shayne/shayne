@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.7.0](https://github.com/yeetrun/yeet/releases/tag/v0.7.0), today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 1 day ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 2 days ago)
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 2 weeks ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3720)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6028)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6041)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
