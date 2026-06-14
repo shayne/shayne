@@ -8,10 +8,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.7.2](https://github.com/yeetrun/yeet/releases/tag/v0.7.2), 1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.7.2](https://github.com/yeetrun/yeet/releases/tag/v0.7.2), 2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3725)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6343)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6345)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
