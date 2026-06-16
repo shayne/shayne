@@ -34,9 +34,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3727)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3728)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6521)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6527)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
