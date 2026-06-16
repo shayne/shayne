@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.7.2](https://github.com/yeetrun/yeet/releases/tag/v0.7.2), 3 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 3 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 4 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 3 weeks ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3726)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6501)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6508)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
