@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (2 days ago)
-  - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
   - Yeet VM image bundles
 - [shayne/cmtr](https://github.com/shayne/cmtr) (2 weeks ago)
@@ -21,9 +21,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.0](https://github.com/yeetrun/yeet/releases/tag/v0.8.0), 1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.0](https://github.com/yeetrun/yeet/releases/tag/v0.8.0), 2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 3 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 6 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3736)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6632)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6633)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
