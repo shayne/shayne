@@ -34,7 +34,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3735)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3736)
   - Re-Connectable secure remote shell
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6632)
   - A collection of agent skills for CAD, robotics and hardware design
