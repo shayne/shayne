@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11933)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11934)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3743)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6705)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6704)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
