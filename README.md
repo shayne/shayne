@@ -34,7 +34,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [garybowers/bootimus](https://github.com/garybowers/bootimus) (285)
+- [garybowers/bootimus](https://github.com/garybowers/bootimus) (286)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11941)
   - A highly customizable macOS status bar replacement
