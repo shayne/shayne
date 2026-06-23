@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [garybowers/bootimus](https://github.com/garybowers/bootimus) (307)
+- [garybowers/bootimus](https://github.com/garybowers/bootimus) (306)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11943)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3751)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6846)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6847)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
