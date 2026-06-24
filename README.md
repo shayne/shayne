@@ -29,7 +29,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 4 weeks ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 4 months ago)
+- [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 5 months ago)
   - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
 
 ### Recent starred projects
