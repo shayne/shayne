@@ -38,7 +38,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11953)
   - A highly customizable macOS status bar replacement
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3751)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3752)
   - Re-Connectable secure remote shell
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6925)
   - A collection of agent skills for CAD, robotics and hardware design
