@@ -12,9 +12,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
   - Yeet VM image bundles
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [shayne/cmtr](https://github.com/shayne/cmtr) (3 weeks ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.11](https://github.com/yeetrun/yeet/releases/tag/v0.8.11), today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), 1 day ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 12 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (313)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11951)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11950)
   - A highly customizable macOS status bar replacement
-- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3750)
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3751)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6896)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (6901)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
