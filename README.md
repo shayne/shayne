@@ -10,7 +10,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 days ago)
   - Yeet VM image bundles
@@ -21,13 +21,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.12](https://github.com/yeetrun/yeet/releases/tag/v0.8.12), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.13](https://github.com/yeetrun/yeet/releases/tag/v0.8.13), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), 2 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 4 weeks ago)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.1](https://github.com/shayne/derphole/releases/tag/v0.15.1), 5 weeks ago)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 - [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 5 months ago)
   - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
