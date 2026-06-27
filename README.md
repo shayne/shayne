@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.17](https://github.com/yeetrun/yeet/releases/tag/v0.8.17), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.20](https://github.com/yeetrun/yeet/releases/tag/v0.8.20), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.2](https://github.com/shayne/derphole/releases/tag/v0.15.2), today)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
