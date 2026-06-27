@@ -12,12 +12,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
+- [shayne/skills](https://github.com/shayne/skills) (today)
+  - 
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
   - Yeet VM image bundles
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (4 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/cmtr](https://github.com/shayne/cmtr) (4 weeks ago)
-  - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
 
 ### Recent releases
 
@@ -40,7 +40,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3757)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7032)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7043)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
