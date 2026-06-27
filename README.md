@@ -17,7 +17,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 - [shayne/yargs](https://github.com/shayne/yargs) (today)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 - [shayne/skills](https://github.com/shayne/skills) (today)
-  - 
+  - My personal agent skills
 
 ### Recent releases
 
@@ -40,7 +40,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3758)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7075)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7077)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
