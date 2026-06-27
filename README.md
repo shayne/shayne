@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.14](https://github.com/yeetrun/yeet/releases/tag/v0.8.14), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.15](https://github.com/yeetrun/yeet/releases/tag/v0.8.15), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), 3 days ago)
   - Yeet VM image bundles
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [garybowers/bootimus](https://github.com/garybowers/bootimus) (322)
+- [garybowers/bootimus](https://github.com/garybowers/bootimus) (323)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11959)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3757)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7059)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7065)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
