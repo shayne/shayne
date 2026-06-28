@@ -36,7 +36,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (326)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11961)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11962)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3759)
   - Re-Connectable secure remote shell
