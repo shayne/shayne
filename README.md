@@ -8,16 +8,16 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
-  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [shayne/yargs](https://github.com/shayne/yargs) (today)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
-- [shayne/skills](https://github.com/shayne/skills) (today)
-  - My personal agent skills
 
 ### Recent releases
 
@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.2](https://github.com/shayne/derphole/releases/tag/v0.15.2), today)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), 3 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), 4 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -40,7 +40,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3758)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7086)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7090)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
