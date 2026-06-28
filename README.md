@@ -8,11 +8,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
@@ -40,7 +40,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3759)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7108)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7113)
   - A collection of agent skills for CAD, robotics and hardware design
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
