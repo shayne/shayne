@@ -9,7 +9,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 ### Recent project contributions
 
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
-  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+  - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
@@ -22,7 +22,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 ### Recent releases
 
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.3](https://github.com/shayne/derphole/releases/tag/v0.15.3), today)
-  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
+  - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 1 day ago)
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [obra/superpowers](https://github.com/obra/superpowers) (241308)
+- [obra/superpowers](https://github.com/obra/superpowers) (241378)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (66647)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (66860)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11966)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11967)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3759)
   - Re-Connectable secure remote shell
