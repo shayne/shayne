@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
+- [obra/superpowers](https://github.com/obra/superpowers) (240684)
+  - An agentic skills framework & software development methodology that works.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (64531)
+  - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (326)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11964)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3759)
   - Re-Connectable secure remote shell
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (7120)
-  - A collection of agent skills for CAD, robotics and hardware design
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (25)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
