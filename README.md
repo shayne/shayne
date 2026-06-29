@@ -21,12 +21,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.3](https://github.com/shayne/derphole/releases/tag/v0.15.3), today)
+  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), today)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), today)
   - Yeet VM image bundles
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.2](https://github.com/shayne/derphole/releases/tag/v0.15.2), 1 day ago)
-  - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 5 months ago)
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [obra/superpowers](https://github.com/obra/superpowers) (240756)
+- [obra/superpowers](https://github.com/obra/superpowers) (240845)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (64809)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (65230)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [garybowers/bootimus](https://github.com/garybowers/bootimus) (326)
+- [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11964)
   - A highly customizable macOS status bar replacement
