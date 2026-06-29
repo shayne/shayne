@@ -12,10 +12,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [shayne/yargs](https://github.com/shayne/yargs) (2 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.3](https://github.com/shayne/derphole/releases/tag/v0.15.3), today)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), 1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 1 day ago)
   - Yeet VM image bundles
@@ -34,9 +34,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [obra/superpowers](https://github.com/obra/superpowers) (241454)
+- [obra/superpowers](https://github.com/obra/superpowers) (241472)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67132)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67170)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
