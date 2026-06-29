@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
-  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
   - Standalone netcat-like Go CLI over Tailscale DERP with direct UDP promotion and relay fallback.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+  - Homelab Service Manager for Docker, Compose, and systemd
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/yargs](https://github.com/shayne/yargs) (1 day ago)
+- [shayne/yargs](https://github.com/shayne/yargs) (2 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [obra/superpowers](https://github.com/obra/superpowers) (240845)
+- [obra/superpowers](https://github.com/obra/superpowers) (240957)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (65230)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (65580)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11964)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11966)
   - A highly customizable macOS status bar replacement
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) (3759)
   - Re-Connectable secure remote shell
