@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), 1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 1 day ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 2 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (46490)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (46558)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (241992)
+- [obra/superpowers](https://github.com/obra/superpowers) (242072)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (68278)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (68412)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
