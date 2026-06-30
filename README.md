@@ -10,13 +10,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (2 days ago)
   - Docs website for yeetrun.com
-- [shayne/yargs](https://github.com/shayne/yargs) (2 days ago)
+- [shayne/yargs](https://github.com/shayne/yargs) (3 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (46077)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (46207)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (241698)
+- [obra/superpowers](https://github.com/obra/superpowers) (241802)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67654)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67877)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
