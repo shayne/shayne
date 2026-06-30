@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.3](https://github.com/shayne/derphole/releases/tag/v0.15.3), today)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.4](https://github.com/shayne/derphole/releases/tag/v0.15.4), today)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), 1 day ago)
   - Homelab Service Manager for Docker, Compose, and systemd
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (45827)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (45928)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (241542)
+- [obra/superpowers](https://github.com/obra/superpowers) (241615)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67335)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (67486)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11966)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11968)
   - A highly customizable macOS status bar replacement
