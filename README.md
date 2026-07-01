@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.6](https://github.com/shayne/derphole/releases/tag/v0.15.6), today)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.15.6](https://github.com/shayne/derphole/releases/tag/v0.15.6), 1 day ago)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), 2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (48235)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (48263)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (243380)
+- [obra/superpowers](https://github.com/obra/superpowers) (243394)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (70340)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (70362)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
