@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+  - Homelab Service Manager for Docker, Compose, and systemd
 - [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 days ago)
-  - Homelab Service Manager for Docker, Compose, and systemd
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (3 days ago)
   - Docs website for yeetrun.com
 - [shayne/yargs](https://github.com/shayne/yargs) (4 days ago)
@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.8.21](https://github.com/yeetrun/yeet/releases/tag/v0.8.21), 2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 3 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.0), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (47785)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (47897)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (243096)
+- [obra/superpowers](https://github.com/obra/superpowers) (243165)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (69829)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (69950)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
