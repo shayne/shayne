@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/derphole](https://github.com/shayne/derphole) (today)
+- [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (2 days ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (3 days ago)
   - Docs website for yeetrun.com
-- [shayne/yargs](https://github.com/shayne/yargs) (3 days ago)
+- [shayne/yargs](https://github.com/shayne/yargs) (4 days ago)
   - Reflection-based, generics-first Go CLI parser with typed flags, subcommands, and help generation.
 
 ### Recent releases
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (47354)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (47501)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (242736)
+- [obra/superpowers](https://github.com/obra/superpowers) (242861)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (69384)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (69526)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (327)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11969)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11972)
   - A highly customizable macOS status bar replacement
