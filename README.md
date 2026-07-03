@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (today)
   - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 days ago)
   - Homelab Service Manager for Docker, Compose, and systemd
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (49118)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (49142)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (244406)
+- [obra/superpowers](https://github.com/obra/superpowers) (244466)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (71699)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (71744)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (328)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
