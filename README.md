@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([ubuntu-26.04-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/ubuntu-26.04-amd64-latest), today)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.1](https://github.com/yeetrun/yeet/releases/tag/v0.9.1), today)
   - Homelab Service Manager for Docker, Compose, and systemd
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (50469)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (50508)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (246090)
+- [obra/superpowers](https://github.com/obra/superpowers) (246118)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (73754)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (73792)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (330)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11979)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (11980)
   - A highly customizable macOS status bar replacement
