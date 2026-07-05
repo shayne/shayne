@@ -9,9 +9,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 ### Recent project contributions
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
-  - Homelab Service Manager for Docker, Compose, and systemd
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/derphole](https://github.com/shayne/derphole) (today)
-  - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
+  - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
@@ -22,11 +22,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 ### Recent releases
 
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.16.2](https://github.com/shayne/derphole/releases/tag/v0.16.2), today)
-  - DERP-powered CLI suite for file transfer, TCP tunnels, and approved terminal sharing with encrypted relay fallback and direct UDP upgrades.
+  - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), today)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.2](https://github.com/yeetrun/yeet/releases/tag/v0.9.2), today)
-  - Homelab Service Manager for Docker, Compose, and systemd
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 1 day ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 5 months ago)
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (50655)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (50698)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (246222)
+- [obra/superpowers](https://github.com/obra/superpowers) (246254)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (73922)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (73983)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (330)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
