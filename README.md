@@ -14,10 +14,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+  - Yeet VM image bundles
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 days ago)
-  - Yeet VM image bundles
 
 ### Recent releases
 
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (51901)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (51923)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (247594)
+- [obra/superpowers](https://github.com/obra/superpowers) (247608)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (75747)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (75776)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (330)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
