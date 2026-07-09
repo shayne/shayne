@@ -10,13 +10,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/derphole](https://github.com/shayne/derphole) (2 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (3 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
   - Yeet VM image bundles
 
 ### Recent releases
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (53381)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (53445)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (250073)
+- [obra/superpowers](https://github.com/obra/superpowers) (250186)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (78242)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (78357)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (331)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
