@@ -10,7 +10,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.6](https://github.com/yeetrun/yeet/releases/tag/v0.9.6), 1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.7](https://github.com/yeetrun/yeet/releases/tag/v0.9.7), today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.16.3](https://github.com/shayne/derphole/releases/tag/v0.16.3), 3 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
@@ -34,11 +34,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (54340)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (54354)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (251580)
+- [obra/superpowers](https://github.com/obra/superpowers) (251607)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (79907)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (79945)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (332)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
