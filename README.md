@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (54674)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (54693)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (252058)
+- [obra/superpowers](https://github.com/obra/superpowers) (252096)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (80397)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (80430)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) (332)
   - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (12014)
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) (12016)
   - A highly customizable macOS status bar replacement
