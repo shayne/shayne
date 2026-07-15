@@ -25,9 +25,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.16.3](https://github.com/shayne/derphole/releases/tag/v0.16.3), 8 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 9 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([nixos-26.05-amd64-latest](https://github.com/yeetrun/yeet-vm-images/releases/tag/nixos-26.05-amd64-latest), 10 days ago)
   - Yeet VM image bundles
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 11 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 12 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 5 months ago)
   - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (209)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (171358)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (171429)
   - Skills for Real Engineers. Straight from my .claude directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (56583)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (56601)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (255073)
+- [obra/superpowers](https://github.com/obra/superpowers) (255094)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (83459)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (83498)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
