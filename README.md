@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (today)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (4 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (213)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (174132)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (174181)
   - Skills for Real Engineers. Straight from my .claude directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (57151)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (57160)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (255926)
+- [obra/superpowers](https://github.com/obra/superpowers) (255939)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (84644)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (84650)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
