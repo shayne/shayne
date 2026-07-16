@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (211)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (173122)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (173251)
   - Skills for Real Engineers. Straight from my .claude directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (57000)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (57024)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (255673)
+- [obra/superpowers](https://github.com/obra/superpowers) (255707)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (84288)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (84319)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
