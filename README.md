@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.17.0](https://github.com/shayne/derphole/releases/tag/v0.17.0), 3 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.7](https://github.com/yeetrun/yeet/releases/tag/v0.9.7), 9 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.9.7](https://github.com/yeetrun/yeet/releases/tag/v0.9.7), 10 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 2 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (219)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (178595)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (178647)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (58617)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (58642)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (258030)
+- [obra/superpowers](https://github.com/obra/superpowers) (258054)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (86474)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (86498)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
