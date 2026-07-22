@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.16.1-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.16.1-yeet-v1), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.16.1-yeet-v1-canary-29893998019](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.16.1-yeet-v1-canary-29893998019), today)
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.17.0](https://github.com/shayne/derphole/releases/tag/v0.17.0), 4 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (220)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (180870)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (181031)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (59238)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (59285)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (258910)
+- [obra/superpowers](https://github.com/obra/superpowers) (258969)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (87415)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (87463)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
