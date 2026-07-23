@@ -8,12 +8,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+  - Docs website for yeetrun.com
 - [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
-  - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
   - Yeet VM image bundles
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
@@ -21,10 +21,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.4](https://github.com/yeetrun/yeet/releases/tag/v0.10.4), today)
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.17.1](https://github.com/shayne/derphole/releases/tag/v0.17.1), today)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.3](https://github.com/yeetrun/yeet/releases/tag/v0.10.3), today)
-  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.14.3-yeet-v1-integration-29976540236](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.14.3-yeet-v1-integration-29976540236), today)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 2 weeks ago)
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (223)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (184299)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (184334)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (60115)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (60126)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (259999)
+- [obra/superpowers](https://github.com/obra/superpowers) (260012)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (88355)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (88365)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
