@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [shayne/derphole](https://github.com/shayne/derphole) (today)
+- [shayne/derphole](https://github.com/shayne/derphole) (1 day ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
   - Yeet VM image bundles
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 
 ### Recent releases
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (221)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (222)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (183075)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (183200)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (59854)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (59881)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (259608)
+- [obra/superpowers](https://github.com/obra/superpowers) (259655)
   - An agentic skills framework & software development methodology that works.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (88028)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (88054)
   - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
