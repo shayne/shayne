@@ -8,6 +8,8 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (today)
+  - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
@@ -16,12 +18,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [shayne/derphole](https://github.com/shayne/derphole) (3 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
-  - Yeet VM image bundles
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.1.5-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.1.5-yeet-v1), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.16.1-yeet-v1-integration-30162802705](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.16.1-yeet-v1-integration-30162802705), today)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.7](https://github.com/yeetrun/yeet/releases/tag/v0.10.7), today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (224)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (187758)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (187832)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (60760)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (60771)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (260860)
+- [obra/superpowers](https://github.com/obra/superpowers) (260895)
   - An agentic skills framework & software development methodology that works.
