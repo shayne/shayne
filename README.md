@@ -8,16 +8,16 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (today)
+  - 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (today)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (1 day ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (3 days ago)
   - Yeet VM image bundles
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 
 ### Recent releases
 
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (228)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (191851)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (191959)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (61327)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (61339)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (262286)
+- [obra/superpowers](https://github.com/obra/superpowers) (262330)
   - An agentic skills framework & software development methodology that works.
