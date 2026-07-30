@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.11](https://github.com/yeetrun/yeet/releases/tag/v0.10.11), 1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.11](https://github.com/yeetrun/yeet/releases/tag/v0.10.11), 2 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.16.1-yeet-v1-integration-30166388128](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.16.1-yeet-v1-integration-30166388128), 4 days ago)
   - Yeet VM image bundles
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (229)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (194495)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (194541)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (62431)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (62445)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (263248)
+- [obra/superpowers](https://github.com/obra/superpowers) (263267)
   - An agentic skills framework & software development methodology that works.
