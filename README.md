@@ -9,7 +9,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 ### Recent project contributions
 
 - [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (today)
-  - 
+  - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
 - [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (today)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (3 days ago)
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (231)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (196632)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (196802)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (63034)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (63072)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (264061)
+- [obra/superpowers](https://github.com/obra/superpowers) (264111)
   - An agentic skills framework & software development methodology that works.
