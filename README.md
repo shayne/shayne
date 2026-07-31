@@ -8,10 +8,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (today)
+  - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 - [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (today)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (1 day ago)
-  - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (4 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (4 days ago)
@@ -21,6 +21,8 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.1.0](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.1.0), today)
+  - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.11](https://github.com/yeetrun/yeet/releases/tag/v0.10.11), 3 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.16.1-yeet-v1-integration-30166388128](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.16.1-yeet-v1-integration-30166388128), 5 days ago)
@@ -29,8 +31,6 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.9.1](https://github.com/JuliusBrussee/caveman/releases/tag/v1.9.1), 4 weeks ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [shayne/viberun](https://github.com/shayne/viberun) ([v0.5.4](https://github.com/shayne/viberun/releases/tag/v0.5.4), 6 months ago)
-  - Viberun is a developer tool that spins up a persistent container per app, starts the agent inside a real PTY, and maps ports so you can build, run, and iterate fast.
 
 ### Recent starred projects
 
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (231)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (197384)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (197449)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (63243)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (63264)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (264316)
+- [obra/superpowers](https://github.com/obra/superpowers) (264335)
   - An agentic skills framework & software development methodology that works.
