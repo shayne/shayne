@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (today)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (1 day ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (today)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (1 day ago)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (5 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (6 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (5 days ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (6 days ago)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (7 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (8 days ago)
   - Yeet VM image bundles
 
 ### Recent releases
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (233)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (199198)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (199238)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (64122)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (64161)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (264869)
+- [obra/superpowers](https://github.com/obra/superpowers) (264883)
   - An agentic skills framework & software development methodology that works.
