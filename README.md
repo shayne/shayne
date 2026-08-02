@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.1.0](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.1.0), today)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.1.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.1.1), today)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 - [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.1.1](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.1.1), today)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (232)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (199002)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (199058)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (64009)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (64041)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (264803)
+- [obra/superpowers](https://github.com/obra/superpowers) (264817)
   - An agentic skills framework & software development methodology that works.
