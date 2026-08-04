@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.1.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.1.6-yeet-v1), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.1.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.1.6-yeet-v1), 1 day ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.10.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.10.0), 1 day ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (409)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (486)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (502)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (202557)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (202638)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (66263)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (66288)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (266075)
+- [obra/superpowers](https://github.com/obra/superpowers) (266120)
   - An agentic skills framework & software development methodology that works.
