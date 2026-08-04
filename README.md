@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (409)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (475)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (486)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (202485)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (202557)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (66244)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (66263)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (266052)
+- [obra/superpowers](https://github.com/obra/superpowers) (266075)
   - An agentic skills framework & software development methodology that works.
