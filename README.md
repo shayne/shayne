@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (1 day ago)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (today)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (6 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (410)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1178)
+- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1180)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (209434)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (209499)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (68528)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (68549)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (269044)
+- [obra/superpowers](https://github.com/obra/superpowers) (269070)
   - An agentic skills framework & software development methodology that works.
