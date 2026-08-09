@@ -23,9 +23,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.10.15](https://github.com/yeetrun/yeet/releases/tag/v0.10.15), today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.0](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.0), today)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.0](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.0), 1 day ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.2.0](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.2.0), today)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.2.0](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.2.0), 1 day ago)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.1.7-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.1.7-yeet-v1), 2 days ago)
   - Yeet VM image bundles
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (410)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1229)
+- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1230)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (210814)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (210857)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (69533)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (69576)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (269618)
+- [obra/superpowers](https://github.com/obra/superpowers) (269631)
   - An agentic skills framework & software development methodology that works.
