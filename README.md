@@ -27,7 +27,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.0](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.0), 1 day ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.2.0](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.2.0), 1 day ago)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) ([v0.2.0](https://github.com/shayne/hyperpixel2r-kms/releases/tag/v0.2.0), 2 days ago)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v1.10.0](https://github.com/JuliusBrussee/caveman/releases/tag/v1.10.0), 7 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1268)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (212213)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (212287)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (70158)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (70173)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (270087)
+- [obra/superpowers](https://github.com/obra/superpowers) (270111)
   - An agentic skills framework & software development methodology that works.
