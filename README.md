@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (2 days ago)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (3 days ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (2 days ago)
+- [shayne/hyperpixel2r-kms](https://github.com/shayne/hyperpixel2r-kms) (3 days ago)
   - A KMS/DRM driver for the Pimoroni HyperPixel 2.1 Round on Raspberry Pi Zero 2 W
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (8 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (9 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 
 ### Recent releases
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (410)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1281)
+- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) (1282)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (212898)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (212988)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (70396)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (70427)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (270375)
+- [obra/superpowers](https://github.com/obra/superpowers) (270415)
   - An agentic skills framework & software development methodology that works.
