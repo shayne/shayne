@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.0](https://github.com/shayne/derphole/releases/tag/v0.18.0), 1 day ago)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.0](https://github.com/shayne/derphole/releases/tag/v0.18.0), 2 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.0.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.0.0), 2 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (410)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1347)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1348)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (216357)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (216382)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (71447)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (71450)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (271730)
+- [obra/superpowers](https://github.com/obra/superpowers) (271742)
   - An agentic skills framework & software development methodology that works.
