@@ -27,7 +27,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.3](https://github.com/yeetrun/yeet/releases/tag/v0.11.3), 2 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.0.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.0.0), 4 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.0.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.0.0), 5 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.1.8-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.1.8-yeet-v1), 6 days ago)
   - Yeet VM image bundles
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1388)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (218965)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (219010)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (72228)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (72240)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (272680)
+- [obra/superpowers](https://github.com/obra/superpowers) (272700)
   - An agentic skills framework & software development methodology that works.
