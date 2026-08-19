@@ -8,6 +8,8 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
@@ -16,8 +18,6 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) (4 days ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (5 days ago)
-  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 
 ### Recent releases
 
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1410)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (221826)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (221921)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (72854)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (72865)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (273760)
+- [obra/superpowers](https://github.com/obra/superpowers) (273779)
   - An agentic skills framework & software development methodology that works.
