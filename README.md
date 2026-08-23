@@ -21,12 +21,12 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.3.1](https://github.com/JuliusBrussee/caveman/releases/tag/v2.3.1), today)
+  - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.8](https://github.com/yeetrun/yeet/releases/tag/v0.11.8), today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([guest-ubuntu-26.04-amd64-v4](https://github.com/yeetrun/yeet-vm-images/releases/tag/guest-ubuntu-26.04-amd64-v4), today)
   - Yeet VM image bundles
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.2.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.2.0), 2 days ago)
-  - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 7 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 8 days ago)
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1460)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (232732)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (232852)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74257)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74269)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (276361)
+- [obra/superpowers](https://github.com/obra/superpowers) (276399)
   - An agentic skills framework & software development methodology that works.
