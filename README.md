@@ -8,9 +8,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (1 day ago)
   - Yeet VM image bundles
@@ -21,10 +21,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.9](https://github.com/yeetrun/yeet/releases/tag/v0.11.9), today)
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.3.1](https://github.com/JuliusBrussee/caveman/releases/tag/v2.3.1), today)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.8](https://github.com/yeetrun/yeet/releases/tag/v0.11.8), today)
-  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([guest-ubuntu-26.04-amd64-v4](https://github.com/yeetrun/yeet-vm-images/releases/tag/guest-ubuntu-26.04-amd64-v4), 1 day ago)
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 7 days ago)
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1465)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (233539)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (233594)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74425)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74437)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (276587)
+- [obra/superpowers](https://github.com/obra/superpowers) (276601)
   - An agentic skills framework & software development methodology that works.
