@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.9](https://github.com/yeetrun/yeet/releases/tag/v0.11.9), today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.10](https://github.com/yeetrun/yeet/releases/tag/v0.11.10), today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.3.1](https://github.com/JuliusBrussee/caveman/releases/tag/v2.3.1), today)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (412)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1466)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1468)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (233706)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (233745)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74462)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74472)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (276639)
+- [obra/superpowers](https://github.com/obra/superpowers) (276650)
   - An agentic skills framework & software development methodology that works.
