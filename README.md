@@ -29,18 +29,18 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Yeet VM image bundles
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 7 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 8 days ago)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 9 days ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 
 ### Recent starred projects
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (412)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1462)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1463)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (233295)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (233362)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74355)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74367)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (276514)
+- [obra/superpowers](https://github.com/obra/superpowers) (276532)
   - An agentic skills framework & software development methodology that works.
