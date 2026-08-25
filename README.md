@@ -27,7 +27,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([guest-ubuntu-26.04-amd64-v4](https://github.com/yeetrun/yeet-vm-images/releases/tag/guest-ubuntu-26.04-amd64-v4), 2 days ago)
   - Yeet VM image bundles
-- [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 8 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 9 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 10 days ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1486)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (235498)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (235567)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74845)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (74871)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (277144)
+- [obra/superpowers](https://github.com/obra/superpowers) (277157)
   - An agentic skills framework & software development methodology that works.
