@@ -8,10 +8,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (5 days ago)
-  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (5 days ago)
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (6 days ago)
@@ -29,7 +29,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 12 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 13 days ago)
+- [shayne/RPi-Plane-Radar](https://github.com/shayne/RPi-Plane-Radar) ([v0.2.1](https://github.com/shayne/RPi-Plane-Radar/releases/tag/v0.2.1), 2 weeks ago)
   - A Raspberry Pi Zero 2 W ADS-B radar for the HyperPixel 2.1 Round
 
 ### Recent starred projects
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1509)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (239712)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (239952)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76230)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76283)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (278844)
+- [obra/superpowers](https://github.com/obra/superpowers) (278953)
   - An agentic skills framework & software development methodology that works.
