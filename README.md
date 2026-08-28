@@ -8,15 +8,15 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (4 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (5 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (4 days ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (5 days ago)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (5 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (6 days ago)
   - Yeet VM image bundles
-- [shayne/derphole](https://github.com/shayne/derphole) (12 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (13 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 
 ### Recent releases
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1508)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (239292)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (239445)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76122)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76168)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (278717)
+- [obra/superpowers](https://github.com/obra/superpowers) (278753)
   - An agentic skills framework & software development methodology that works.
