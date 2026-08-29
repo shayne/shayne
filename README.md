@@ -8,10 +8,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
-  - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (5 days ago)
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (6 days ago)
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1510)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (240324)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (240346)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76380)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76384)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (279099)
+- [obra/superpowers](https://github.com/obra/superpowers) (279111)
   - An agentic skills framework & software development methodology that works.
