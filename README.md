@@ -8,6 +8,8 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
+- [shayne/derphole](https://github.com/shayne/derphole) (today)
+  - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
@@ -16,8 +18,6 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Docs website for yeetrun.com
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (7 days ago)
   - Yeet VM image bundles
-- [shayne/derphole](https://github.com/shayne/derphole) (2 weeks ago)
-  - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 
 ### Recent releases
 
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1515)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (240983)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (241017)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76543)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (76550)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (279367)
+- [obra/superpowers](https://github.com/obra/superpowers) (279379)
   - An agentic skills framework & software development methodology that works.
