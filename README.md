@@ -10,13 +10,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/derphole](https://github.com/shayne/derphole) (4 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (5 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (5 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (6 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (10 days ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (11 days ago)
   - Docs website for yeetrun.com
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (11 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (12 days ago)
   - Yeet VM image bundles
 
 ### Recent releases
@@ -38,9 +38,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1534)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (245304)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (245666)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (77616)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (77665)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (280862)
+- [obra/superpowers](https://github.com/obra/superpowers) (280970)
   - An agentic skills framework & software development methodology that works.
