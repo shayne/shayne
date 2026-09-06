@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([bin-v1.1.6](https://github.com/JuliusBrussee/caveman/releases/tag/bin-v1.1.6), 2 days ago)
   - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.3-yeet-v1), 3 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.3-yeet-v1), 4 days ago)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.10](https://github.com/yeetrun/yeet/releases/tag/v0.11.10), 13 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -36,11 +36,11 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (419)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1543)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1544)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (253760)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (254064)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (78347)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (78385)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [obra/superpowers](https://github.com/obra/superpowers) (282256)
+- [obra/superpowers](https://github.com/obra/superpowers) (282305)
   - An agentic skills framework & software development methodology that works.
