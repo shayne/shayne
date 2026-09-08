@@ -8,13 +8,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
   - Docs website for yeetrun.com
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (4 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
-- [shayne/derphole](https://github.com/shayne/derphole) (9 days ago)
+- [shayne/derphole](https://github.com/shayne/derphole) (10 days ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (2 weeks ago)
   - Yeet VM image bundles
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (25006)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (25405)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (419)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1546)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (256146)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (256373)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (78647)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (78708)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
