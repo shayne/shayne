@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (26561)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (26625)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (420)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1548)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (258158)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (258383)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (79122)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (79159)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
