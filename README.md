@@ -23,9 +23,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.7.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.7.0), 5 days ago)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.6-yeet-v1), 5 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.6-yeet-v1), 6 days ago)
   - Yeet VM image bundles
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.12](https://github.com/yeetrun/yeet/releases/tag/v0.11.12), 12 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.12](https://github.com/yeetrun/yeet/releases/tag/v0.11.12), 13 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/derphole](https://github.com/shayne/derphole) ([v0.18.2](https://github.com/shayne/derphole/releases/tag/v0.18.2), 5 weeks ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (29939)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (29984)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (423)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1564)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (266194)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (266322)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (83686)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (83762)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
