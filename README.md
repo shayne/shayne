@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.7-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.7-yeet-v1), 1 day ago)
   - Yeet VM image bundles
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.7.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.7.0), 7 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v2.7.0](https://github.com/JuliusBrussee/caveman/releases/tag/v2.7.0), 8 days ago)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.12](https://github.com/yeetrun/yeet/releases/tag/v0.11.12), 2 weeks ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (30769)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (30820)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (424)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1568)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (267851)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (268020)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (84819)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (84937)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
