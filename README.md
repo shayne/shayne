@@ -12,7 +12,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (3 weeks ago)
   - Docs website for yeetrun.com
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 weeks ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (4 weeks ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [shayne/derphole](https://github.com/shayne/derphole) (4 weeks ago)
   - Move files, open TCP tunnels, and share a terminal when a VPN is too much state for one job. DERP gets peers connected; tokens keep access scoped.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (32137)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (32168)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1579)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (274000)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (274255)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (87515)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (87669)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
