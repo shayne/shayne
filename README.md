@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (4 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([bin-v2.0.2](https://github.com/JuliusBrussee/caveman/releases/tag/bin-v2.0.2), 3 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([middleware-ts-v1.0.1](https://github.com/JuliusBrussee/caveman/releases/tag/middleware-ts-v1.0.1), today)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([firecracker-v1.17.0-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/firecracker-v1.17.0-yeet-v1), 4 days ago)
   - Yeet VM image bundles
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (32770)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (32797)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1591)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (279586)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (280080)
   - Skills for Real Engineers. Straight from my .agents directory.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (93229)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (93594)
   - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
