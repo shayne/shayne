@@ -8,9 +8,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) (1 day ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) (today)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
-- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (1 day ago)
+- [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (today)
   - Docs website for yeetrun.com
 - [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
@@ -21,10 +21,10 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.15](https://github.com/yeetrun/yeet/releases/tag/v0.11.15), today)
+  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.2.10-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.2.10-yeet-v1), today)
   - Yeet VM image bundles
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.14](https://github.com/yeetrun/yeet/releases/tag/v0.11.14), today)
-  - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/cmtr](https://github.com/shayne/cmtr) ([0.4.2](https://github.com/shayne/cmtr/releases/tag/0.4.2), today)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([middleware-ts-v1.0.1](https://github.com/JuliusBrussee/caveman/releases/tag/middleware-ts-v1.0.1), 3 days ago)
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (96565)
+- [morluto/rea](https://github.com/morluto/rea) (101685)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (33255)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (33320)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1596)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (285923)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (286132)
   - Skills for Real Engineers. Straight from my .agents directory.
