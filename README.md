@@ -25,7 +25,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3-yeet-v1), 5 days ago)
   - Yeet VM image bundles
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.15](https://github.com/yeetrun/yeet/releases/tag/v0.11.15), 12 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.15](https://github.com/yeetrun/yeet/releases/tag/v0.11.15), 13 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [shayne/cmtr](https://github.com/shayne/cmtr) ([0.4.2](https://github.com/shayne/cmtr/releases/tag/0.4.2), 13 days ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (378140)
+- [morluto/rea](https://github.com/morluto/rea) (378638)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35069)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35085)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1617)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (302451)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (302513)
   - Skills for Real Engineers. Straight from my .agents directory.
