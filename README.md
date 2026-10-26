@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (today)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (1 day ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 weeks ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (385980)
+- [morluto/rea](https://github.com/morluto/rea) (388231)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35227)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35262)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1617)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1620)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (303398)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (303670)
   - Skills for Real Engineers. Straight from my .agents directory.
