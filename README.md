@@ -8,7 +8,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent project contributions
 
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) (2 days ago)
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) (3 days ago)
   - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) (2 weeks ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([bin-v4.0.2](https://github.com/JuliusBrussee/caveman/releases/tag/bin-v4.0.2), 4 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([bin-v4.0.2](https://github.com/JuliusBrussee/caveman/releases/tag/bin-v4.0.2), 5 days ago)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3-yeet-v1), 8 days ago)
   - Yeet VM image bundles
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (397932)
+- [morluto/rea](https://github.com/morluto/rea) (399588)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35412)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (35448)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1627)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (304963)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (305219)
   - Skills for Real Engineers. Straight from my .agents directory.
