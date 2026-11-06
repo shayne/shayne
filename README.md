@@ -21,7 +21,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent releases
 
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.1-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.1-yeet-v1), 6 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.1-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.1-yeet-v1), 7 days ago)
   - Yeet VM image bundles
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([bin-v4.0.2](https://github.com/JuliusBrussee/caveman/releases/tag/bin-v4.0.2), 2 weeks ago)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (436029)
+- [morluto/rea](https://github.com/morluto/rea) (437130)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (36181)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (36207)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (426)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1635)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (316014)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (316412)
   - Skills for Real Engineers. Straight from my .agents directory.
