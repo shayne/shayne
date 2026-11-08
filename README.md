@@ -23,7 +23,7 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v4.1.0](https://github.com/JuliusBrussee/caveman/releases/tag/v4.1.0), today)
   - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.3-yeet-v1), today)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.3-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.3-yeet-v1), 1 day ago)
   - Yeet VM image bundles
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.15](https://github.com/yeetrun/yeet/releases/tag/v0.11.15), 3 weeks ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (442157)
+- [morluto/rea](https://github.com/morluto/rea) (442947)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (36297)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (36322)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (425)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1637)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1639)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (318099)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (318313)
   - Skills for Real Engineers. Straight from my .agents directory.
