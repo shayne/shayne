@@ -14,16 +14,16 @@ Off the clock I fly small planes and once ran a craft coffee shop.
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [yeetrun/yeet-website](https://github.com/yeetrun/yeet-website) (5 weeks ago)
   - Docs website for yeetrun.com
-- [shayne/cmtr](https://github.com/shayne/cmtr) (5 weeks ago)
+- [shayne/cmtr](https://github.com/shayne/cmtr) (6 weeks ago)
   - cmtr writes accurate git commit messages from your staged diff and repo history using Codex and OpenAI.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (6 weeks ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) (7 weeks ago)
   - Yeet VM image bundles
 
 ### Recent releases
 
 - [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.5-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.5-yeet-v1), 3 days ago)
   - Yeet VM image bundles
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v4.1.0](https://github.com/JuliusBrussee/caveman/releases/tag/v4.1.0), 12 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v4.1.0](https://github.com/JuliusBrussee/caveman/releases/tag/v4.1.0), 13 days ago)
   - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.15](https://github.com/yeetrun/yeet/releases/tag/v0.11.15), 5 weeks ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (471637)
+- [morluto/rea](https://github.com/morluto/rea) (472109)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (37146)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (37161)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (428)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1652)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (329045)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (329353)
   - Skills for Real Engineers. Straight from my .agents directory.
