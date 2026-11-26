@@ -23,9 +23,9 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 - [yeetrun/yeet-os](https://github.com/yeetrun/yeet-os) ([v0.2.0](https://github.com/yeetrun/yeet-os/releases/tag/v0.2.0), today)
   - A NixOS host for Yeet. Deploy apps with yeet run and restore your host from its data disks.
-- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.6-yeet-v1), 2 days ago)
+- [yeetrun/yeet-vm-images](https://github.com/yeetrun/yeet-vm-images) ([kernel-linux-7.3.6-yeet-v1](https://github.com/yeetrun/yeet-vm-images/releases/tag/kernel-linux-7.3.6-yeet-v1), 3 days ago)
   - Yeet VM image bundles
-- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.16](https://github.com/yeetrun/yeet/releases/tag/v0.11.16), 3 days ago)
+- [yeetrun/yeet](https://github.com/yeetrun/yeet) ([v0.11.16](https://github.com/yeetrun/yeet/releases/tag/v0.11.16), 4 days ago)
   - Run containers, VMs, binaries, and cron jobs on Linux hosts you control. No tiny cloud required.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ([v4.2.0](https://github.com/JuliusBrussee/caveman/releases/tag/v4.2.0), 4 days ago)
   - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
@@ -34,13 +34,13 @@ Off the clock I fly small planes and once ran a craft coffee shop.
 
 ### Recent starred projects
 
-- [morluto/rea](https://github.com/morluto/rea) (479227)
+- [morluto/rea](https://github.com/morluto/rea) (479699)
   - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (37507)
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) (37527)
   - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jeb5/YouTube-Subscriptions-RSS](https://github.com/jeb5/YouTube-Subscriptions-RSS) (430)
   - Generate an OPML file of RSS feeds for your YouTube subscriptions
 - [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) (1659)
   - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security
-- [mattpocock/skills](https://github.com/mattpocock/skills) (333308)
+- [mattpocock/skills](https://github.com/mattpocock/skills) (333567)
   - Skills for Real Engineers. Straight from my .agents directory.
